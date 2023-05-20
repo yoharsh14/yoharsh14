@@ -4,6 +4,8 @@
 - 👯 I’m looking to collaborate on any Ethereum related stuff
 - 🤔 I’m looking for help with Internship in Blockchain development
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,javascript,figma,solidity,latex,react,c,git,python)](https://skillicons.dev)
+
 <img src="https://img.shields.io/twitter/follow/dambhare_harsh?logo=twitter&style=for-the-badge" alt="dambhare_harsh" />
 <img src="https://img.shields.io/leetcode/follow/yoharsh14?logo=twitter&style=for-the-badge" alt="yoharsh14" />
 
