@@ -1,4 +1,4 @@
-# Hi there 👋 What's up?
+# helloJi 👋 ki hal chal?
 *I am an ENTJ by personality, Which means I am an extroverted person I love to connect with like minded people, I am a good leader and team player at the same time and last but not the least I am an empathetic person.*
 
 *Talking about my skill I love doing* **problem solving** *and learning new solution of a same problem, since the day I commited my life to coding I have never spent a day writting* **Java** *I Started Blockchain and feel in love with the concept of decentralization, since then I have been learning* **blockchain**.
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on any Ethereum related stuff.
 - 🤔 I’m looking for help with Internship in Blockchain development.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,javascript,figma,solidity,latex,react,c,git,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,tailwind,express,nodejs,react,mongodb,next,figma,solidity,latex,vite,c,git,python,postman,)](https://skillicons.dev)
 
 ---
 <!-- badges -->
